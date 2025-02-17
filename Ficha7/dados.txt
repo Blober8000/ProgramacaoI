@@ -1,6 +1,0 @@
-A UC de Programação I tem com objetivos: 
-- Conceção de algoritmos aplicando boas práticas de programação; 
-- Codificação de algoritmos em linguagem Java (na perspetiva procedimental); 
-- Aplicação de testes aos programas; 
-- Aplicação dos conhecimentos adquiridos à resolução de problemas do mundo real; 
-- Promoção de atitudes de aprendizagem ativa, colaborativa e responsável, de trabalho persistente e de aplicação de espírito crítico na análise e resolução de problemas.
